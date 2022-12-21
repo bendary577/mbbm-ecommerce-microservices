@@ -1,0 +1,4 @@
+1 - generate jar file :
+------------------------
+mvn clean package && java -jar target/mbbm-ecommerce-ms-0.0.1-SNAPSHOT.jar
+
